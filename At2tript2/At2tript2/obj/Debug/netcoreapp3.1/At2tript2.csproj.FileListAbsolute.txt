@@ -1,0 +1,15 @@
+D:\DevWeb\C#\At2tript2\At2tript2\bin\Debug\netcoreapp3.1\At2tript2.exe
+D:\DevWeb\C#\At2tript2\At2tript2\bin\Debug\netcoreapp3.1\At2tript2.deps.json
+D:\DevWeb\C#\At2tript2\At2tript2\bin\Debug\netcoreapp3.1\At2tript2.runtimeconfig.json
+D:\DevWeb\C#\At2tript2\At2tript2\bin\Debug\netcoreapp3.1\At2tript2.runtimeconfig.dev.json
+D:\DevWeb\C#\At2tript2\At2tript2\bin\Debug\netcoreapp3.1\At2tript2.dll
+D:\DevWeb\C#\At2tript2\At2tript2\bin\Debug\netcoreapp3.1\At2tript2.pdb
+D:\DevWeb\C#\At2tript2\At2tript2\obj\Debug\netcoreapp3.1\At2tript2.csproj.AssemblyReference.cache
+D:\DevWeb\C#\At2tript2\At2tript2\obj\Debug\netcoreapp3.1\At2tript2.Form1.resources
+D:\DevWeb\C#\At2tript2\At2tript2\obj\Debug\netcoreapp3.1\At2tript2.csproj.GenerateResource.cache
+D:\DevWeb\C#\At2tript2\At2tript2\obj\Debug\netcoreapp3.1\At2tript2.AssemblyInfoInputs.cache
+D:\DevWeb\C#\At2tript2\At2tript2\obj\Debug\netcoreapp3.1\At2tript2.AssemblyInfo.cs
+D:\DevWeb\C#\At2tript2\At2tript2\obj\Debug\netcoreapp3.1\At2tript2.csproj.CoreCompileInputs.cache
+D:\DevWeb\C#\At2tript2\At2tript2\obj\Debug\netcoreapp3.1\At2tript2.dll
+D:\DevWeb\C#\At2tript2\At2tript2\obj\Debug\netcoreapp3.1\At2tript2.pdb
+D:\DevWeb\C#\At2tript2\At2tript2\obj\Debug\netcoreapp3.1\At2tript2.genruntimeconfig.cache
